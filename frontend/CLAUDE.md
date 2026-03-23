@@ -16,4 +16,4 @@
 - No `as SomeType` casting — use type guards
 
 ## WebSocket pattern (job progress)
-Use hooks/useWebSocket.ts — don't create new WS connections directly
+Use hooks/useJobProgress.ts — don't create new WS connections directly
